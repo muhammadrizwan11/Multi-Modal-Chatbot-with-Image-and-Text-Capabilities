@@ -1,7 +1,7 @@
-streamlit
-google-generativeai
-requests
-python-dotenv
-base64
+streamlit==1.20.0
+google-generativeai==0.8.0
+Pillow==8.3.2
+requests==2.31.0
+python-dotenv==0.21.0
+base64==1.0.0
 random
-pillowy
