@@ -1,5 +1,6 @@
 # from dotenv import load_dotenv
 # load_dotenv()  # Load environment variables
+!pip install google-generativeai==0.8.0
 
 import streamlit as st
 import os
